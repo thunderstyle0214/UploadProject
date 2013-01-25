@@ -1,0 +1,1 @@
+Android development for Galaxy Tab. App needs to do the following: find all the WAV files on the device, zip up the files into one zip file, perform an HTTP POST of the zip file, and delete all the WAV files on the device.
